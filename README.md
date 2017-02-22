@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (Calculating taxes and tax bracket.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/zachgulnick/lesson5_taxcalculator)
 
 ### Lessons Learned in the Assignment:
 1. (how to use else if)
